@@ -1,1 +1,1 @@
-#snake_Game using python
+#Snake_Game using python
