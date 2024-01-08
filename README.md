@@ -18,4 +18,9 @@ Moving of snake:
 To move the snake, you will need to use the key events present in the KEYDOWN class of Pygame. The events that are used over here are, K_UP, K_DOWN, K_LEFT, and K_RIGHT to make the snake move up, down, left and right, the display screen is changed from the default black to white using the fill method.
 Icreated new variables x1_change and 1_change in order to hold the updating values of the x and y coordinates.
 
+Game Over when Snake touch the boundaries:
+
+Using module
+if the player hits the boundaries of the screen, then he loses. To specify that, I have made use of an 'if' statement that defines the limits for the x and y coordinates of the snake to be less than or equal to that of the screen. Also, make a not over here that I have removed the hardcodes and used variables instead so that it becomes easy in case you want to make any changes to the game later on.
+
 
