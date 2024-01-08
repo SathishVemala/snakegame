@@ -4,6 +4,7 @@ Using module
 
 pygame
 1.pip install pygame(in command prompt)
+
 2.open ide
 
 Create the Screen:
