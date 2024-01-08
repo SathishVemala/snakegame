@@ -29,6 +29,6 @@ if the player hits the boundaries of the screen, then he loses. To specify that,
 
 ● Outcome: Snake game is ready to play.
 
-To Watch Demo: [click Here](https://drive.google.com/file/d/10joRGN9fdyLB-LXyo83VMh-OAFjUYNi5/view?usp=sharing)
+To Watch Demo: [Click Here](https://drive.google.com/file/d/10joRGN9fdyLB-LXyo83VMh-OAFjUYNi5/view?usp=sharing)
 
 
